@@ -1,0 +1,26 @@
+{
+  "name": "2019-04-15-remove-sensitive-data-from-winston",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boldi24/2019-04-15-remove-sensitive-data-from-winston.git"
+  },
+  "author": "Boldizsar Tompe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boldi24/2019-04-15-remove-sensitive-data-from-winston/issues"
+  },
+  "homepage": "https://github.com/boldi24/2019-04-15-remove-sensitive-data-from-winston#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "is-empty": "^1.2.0",
+    "is-plain-object": "^2.0.4",
+    "winston": "^3.2.1"
+  }
+}
